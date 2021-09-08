@@ -1,5 +1,5 @@
 # Kajot interview test
-- This script is make to compress files to gzip files. Script is running automatically at 01:00 AM, every 30 days. Automation is handle by cron job.
+- This script is make to compress files to gzip files and delete old not gzip files. Script is running automatically at 01:00 AM, every 30 days. Automation is handle by cron job.
 
 # How to use
 - Open Terminal and type here: `crontab -e`
