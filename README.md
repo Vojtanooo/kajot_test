@@ -5,6 +5,6 @@
 - Open Terminal and type here: `crontab -e`
     after that vim editor will open.
 - Select `I` on keyboard to go to Insert mode
-- Copy and paste this command to editor `0 1 */30 * * "/path/to/python" "/path/to/script/file.py"`
+- Copy and paste this command to editor `0 1 */30 * * /path/to/python /path/to/script/file.py`
 - Then press esc and write `:wq` to exit and save cron job
 - ALL DONE!
